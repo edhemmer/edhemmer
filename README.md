@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @edhemmer
 - 👀 I’m interested in learning how to utilize ML and DL models in my creatives. 
 - 🌱 I’m currently learning Pyton for beginners to get a foundation, I have no programming skills at this time.
-- 💞️ I’m looking to collaborate on best practices for writing AI based applications. ALso how to integrate into website development and digital marketing.
+- 💞️ I’m looking to collaborate on best practices for writing AI based applications, and how to integrate AI into website development and digital marketing projects.
 - 📫 How to reach me here if possible.
 
 <!---
