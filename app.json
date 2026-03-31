@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Real Travel 2 Real Places",
+    "slug": "real-travel-2-real-places",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.realtravel2realplaces.app"
+    },
+    "plugins": ["expo-notifications"],
+    "scheme": "rt2rp"
+  }
+}
